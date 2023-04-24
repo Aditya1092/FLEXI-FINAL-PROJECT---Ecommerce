@@ -102,7 +102,7 @@
   import { db } from "../firebase";
   import  {Modal} from 'bootstrap';
   import { collection, addDoc } from "firebase/firestore";
-  import Stripe from 'stripe';
+  import Stripe from 'stripe';  //stripe api
   const stripe = Stripe('sk_test_51MyuTbSCVmtc0QKgFD4INgeXtBTIFG937ckfTrpnntJBPoovJD1wz1CnLTxJmIYCKYlMLEBiX0tBBNBIhOZvP9ed00szq30YMU');
   export default {
     
