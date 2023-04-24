@@ -9,7 +9,7 @@
      
      
       <hr />
-      <h3 class="d-inline-block ">Product List</h3>
+      <h3 class="d-inline-block ">Product List</h3>//css inline style used
       <br>
       
       <a class="btn btn-outline-info border-0 mx-2 my-2 my-sm-0" float-right  data-bs-toggle="modal" data-bs-target="#product">
@@ -138,7 +138,7 @@ import { db } from "../firebase";
  
 import { getStorage, ref , uploadBytes ,uploadBytesResumable, getDownloadURL } from "firebase/storage";
 import { VueEditor } from "vue2-editor";
-import { doc,deleteDoc } from "firebase/firestore";
+import { doc,deleteDoc } from "firebase/firestore"; //functions of firebase
 
 import {  query,  onSnapshot } from "firebase/firestore";
 import {  updateDoc } from "firebase/firestore";
