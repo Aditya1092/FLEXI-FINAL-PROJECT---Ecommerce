@@ -1,4 +1,5 @@
 <template>
+  <!-- nav bar for stiched -->
   <div class="hello">
     <nav class="navbar navbar-expand-lg navbar-light bg-light custom-nav">
       <div class="container-fluid">

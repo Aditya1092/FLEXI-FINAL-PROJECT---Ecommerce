@@ -31,7 +31,7 @@
 </template>
 
 <script>
-// @ is an alias to /src
+// @ is an alias
  
 
 export default {

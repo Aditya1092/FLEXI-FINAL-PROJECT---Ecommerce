@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="row justify-content-center">
-      <Navbar></Navbar>
+      <Navbar></Navbar><!--  *//import navbar -->
       <div class="col-lg-8">
         <div class="card my-4">
           <div class="card-header">

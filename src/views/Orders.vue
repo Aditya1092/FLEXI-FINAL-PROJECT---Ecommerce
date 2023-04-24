@@ -1,14 +1,5 @@
 <template>
     <div class="checkout">
-      
-  
-      
-
-
-
-
-
-
       <div class="container my-5 py-3">
         <div class="row">
           <div class="col-md-8">
@@ -24,7 +15,6 @@
                     <p class="my-0 font-weight-bold">Total Price: {{item.productPrice * item.productQuantity}}</p>
                   </div>
                 </div>
-               
               </li>
             </ul>
           </div>
@@ -49,7 +39,7 @@
                   </li>
                 </ul>
                 
-      
+      <!-- place order button -->
     <button class="btn btn-success btn-block mt-3" @click="order" >Accept / Reject order</button>
    
               </div>

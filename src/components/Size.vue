@@ -1,5 +1,5 @@
 <template>
-    
+  <!-- this is for custamization form -->
     <div class="measurement-form"  style="padding-top: 20px;">
         
       <h2>Women's Clothes Measurement Form</h2>
